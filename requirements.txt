@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.3
+itemloaders==1.0.4
+pandas==1.4.3
+Scrapy==2.6.1
